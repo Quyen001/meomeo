@@ -103,3 +103,4 @@ _G.GunSettings = {
     ['SerpentBow'] = true,
     ['SoulGuitar'] = true
 }
+print('loaded config')
