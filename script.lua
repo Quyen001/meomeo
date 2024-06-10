@@ -1,5 +1,4 @@
 _G.Key = "8b74dc8327ce7bb9384cb606a50c44bebd86c0a05da4318657866b6e8cc131c3"
-getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1240601519347339345/1249628731409043486/Akainu.txt?ex=6667fef2&is=6666ad72&hm=b0854b0423d35ed788dcd7b119297ed2f7cfeb687fc1579be2a05a4889e2d578&"
 getgenv().Config = {
 	["SelectChapter"] = "Chapter 1",
 	["AutoSave"] = true,
