@@ -48,7 +48,7 @@ getgenv().Config = {
 	["DeleteMap"] = true,
 	["AutoUpgrade"] = false,
 	["LeaveSellWave"] = 31,
-	["HardMode"] = true,
+	["HardMode"] = false,
 	["WH_BannerSummoned"] = true,
 	["StandardSummonUnit"] = {
 		["Dragon Slayer"] = false,
@@ -96,7 +96,7 @@ getgenv().Config = {
 	["MiddlePos"] = {
 
 	},
-	["JoinHighest"] = false,
+	["JoinHighest"] = true,
 	["SelectChallengeMacro"] = {
 
 	},
